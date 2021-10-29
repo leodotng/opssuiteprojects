@@ -1,0 +1,1 @@
+<button class="ui button bVKau3WAPVrQZq8nMv3Xe" role="button" data-dashlane-label="true" data-dashlane-rid="27c8f596fc3311f6" data-form-type="action,search">Acknowledge</button>
